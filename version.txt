@@ -1,1 +1,1 @@
-1.0.2;https://github.com/YudgenK/Otchet/blob/main/updater_example_setup_1.0.0.exe?raw=true
+1.0.0;https://github.com/YudgenK/Otchet/raw/main/updater_example_setup_1.0.0.exe?raw=true
